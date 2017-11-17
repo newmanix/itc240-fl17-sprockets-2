@@ -68,4 +68,4 @@ echo '<p><a href="customer_list.php">Go Back</a></p>';
 @mysqli_close($iConn);
 
 ?>
-<?php include 'includes/footer.php';?>
+<?php get_footer();?>
